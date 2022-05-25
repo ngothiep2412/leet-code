@@ -7,6 +7,5 @@
 | Date | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |25/05/2022|TwoSum| Javascript|Easy|
-|25/05/2022|TwoSum| Javascript|Easy|
 |25/05/2022|Roman to Integer| Javascript|Easy|
 #### @ThiepNX 2022
