@@ -1,7 +1,11 @@
-# Welcome to Figma to HTML, CSS, SASS.
+# Welcome to Code With LeetCode.
 
-### Figma is a web-based graphics editing and user interface design app. You can use it to do all kinds of graphic design work from wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts, and everything in between.
+### I just want to spend a lot of time coding Algorithm in LeetCode. 
 
-### I just want to spend a lot of time coding HTML, CSS, SASS with Figma.
+## This is my list that I finished code in LeetCode.
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|25/05/2022|[TwoSum]| [Javascript]|Easy|
 
 #### @ThiepNX 2022
