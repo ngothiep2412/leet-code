@@ -10,5 +10,9 @@
 | 25/05/2022 | Roman to Integer                               | Javascript | Easy       |
 | 26/05/2022 | Longest Substring Without Repeating Characters | Javascript | Medium     |
 | 26/05/2022 | Median of Two Sorted Arrays                    | Javascript | Hard       |
+| 26/05/2022 | Number of 1 Bits                               | Javascript | Easy       |
+| 26/05/2022 | Valid Anagram                                  | Javascript | Easy       |
+| 27/05/2022 | Palindrome Numbers                             | Javascript | Easy       |
+| 27/05/2022 | Implement strStr()                             | Javascript | Easy       |
 
 #### @ThiepNX 2022
