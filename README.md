@@ -14,5 +14,6 @@
 | 26/05/2022 | Valid Anagram                                  | Javascript | Easy       |
 | 27/05/2022 | Palindrome Numbers                             | Javascript | Easy       |
 | 27/05/2022 | Implement strStr()                             | Javascript | Easy       |
+| 27/05/2022 | Number of Steps to Reduce a Number to Zero     | Javascript | Easy       |
 
 #### @ThiepNX 2022
