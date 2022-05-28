@@ -16,5 +16,6 @@
 | 27/05/2022 | Implement strStr()                             | Javascript | Easy       |
 | 27/05/2022 | Number of Steps to Reduce a Number to Zero     | Javascript | Easy       |
 | 28/05/2022 | Plus One                                       | Javascript | Easy       |
+| 28/05/2022 | Missing Number                                 | Javascript | Easy       |
 
 #### @ThiepNX 2022
